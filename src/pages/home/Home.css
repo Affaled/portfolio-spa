@@ -1,0 +1,33 @@
+.home{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 90.5vh;
+    height: 90.5vh;
+    background-color: #121110;
+    color: #c2aeaf;
+}
+.home-group{
+    display: flex;
+    flex-direction: column;
+    width: 50rem;
+}
+.home-title{
+    display: block;
+    font-size: 4rem;
+    font-weight: bold;
+}
+.home-subtitle{
+    display: block;
+    font-size: 3rem;
+    font-weight: bold;
+    padding-bottom: 1rem;
+}
+.home-paragraph{
+    display: block;
+    border-top: 2px solid #c2aeaf;
+    display: flex;
+    width: 30rem;
+    font-size: 1.2rem;
+}

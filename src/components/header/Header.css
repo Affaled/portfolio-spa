@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    height: 9.5vh;
+    background-color: #121110;
+    padding: 0px 10vw;
+}
+.logo{
+    display: flex;
+    width: 65px;
+    height: 65px;
+}
+.menu{
+    display: flex;
+    flex-direction: inline;
+    list-style-type: none;
+    gap: 1.5em;
+    font-size: larger;
+    font-weight: bold;
+    color: #c2aeaf;
+}
